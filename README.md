@@ -7,7 +7,7 @@ That's to compile, u need to write the command(for example):
 nasm -f elf64 -g -F dwarf triangle.asm -o triangle.o
 ```
 Next u need to linking:
-
+g++ -g triangle.o -o triangle -lglfw -lGLEW -lGL -no-pie
 The next just output:
 ```
 ./triangle
