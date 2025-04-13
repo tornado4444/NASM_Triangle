@@ -7,7 +7,9 @@ That's to compile, u need to write the command(for example):
 nasm -f elf64 -g -F dwarf triangle.asm -o triangle.o
 ```
 The next just output:
-
+```
+./triangle
+```
 
 # Enjoy!
 ![img](https://github.com/tornado4444/NASM_Triangle/blob/main/triangle.png)
