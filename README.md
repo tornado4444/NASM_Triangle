@@ -3,6 +3,9 @@ Welcome, here, is my first render on assembly(NASM). Here is been render triangl
 
 # HOW TO COMPILE!
 That's to compile, u need to write the command:
+```
+nasm -f elf64 -g -F dwarf triangle.asm -o triangle.o
+```
 
 
 # Enjoy!
