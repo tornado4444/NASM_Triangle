@@ -14,6 +14,7 @@ The next just output:
 ```
 ./triangle
 ```
+So, u
 
 # Enjoy!
 ![img](https://github.com/tornado4444/NASM_Triangle/blob/main/triangle.png)
