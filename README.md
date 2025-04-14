@@ -14,7 +14,7 @@ The next just output:
 ```
 ./triangle
 ```
-So, u have triangle
+So, u have triangle on
 
 # Enjoy!
 ![img](https://github.com/tornado4444/NASM_Triangle/blob/main/triangle.png)
